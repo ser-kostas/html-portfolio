@@ -63,3 +63,8 @@ ul{
 li{
   text-align:center;
 }
+
+#services{
+  text-align: center; /* Center the content */
+  padding: 20px; /* Add padding around the section */
+}
