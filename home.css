@@ -31,7 +31,7 @@ nav a:hover {
 }
 
 .profile-picture img {
-  width: 200px; /* Set the image width */
+  width: 2px; /* Set the image width */
   height: auto; /* Maintain aspect ratio */
   border-radius: 50%; /* Make the image circular */
 }
