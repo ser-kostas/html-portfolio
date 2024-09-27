@@ -74,5 +74,5 @@ li{
 }
 
 #services li::marker {
-  margin-left: -100px;
+  margin-left: -100000px;
 }
