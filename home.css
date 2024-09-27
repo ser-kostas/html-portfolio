@@ -68,3 +68,11 @@ li{
   text-align: center; /* Center the content */
   padding: 20px; /* Add padding around the section */
 }
+
+#services ul {
+  list-style-position: inside;
+}
+
+#services li::marker {
+  margin-left: -10px;
+}
